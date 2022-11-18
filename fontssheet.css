@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Bad Script';
+    src: url('/fonts/BadScript/BadScriptRegular.eot');
+    src: url('/fonts/BadScript/BadScriptRegular.ttf');
+    src: url('/fonts/BadScript/BadScriptRegular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas';
+    src: url('/fonts/BebasRegular/Bebas-Regular.eot');
+    src: local('Bebas Regular'), local('Bebas-Regular'),
+        url('/fonts/BebasRegular/Bebas-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/BebasRegular/Bebas-Regular.woff2') format('woff2'),
+        url('/fonts/BebasRegular/Bebas-Regular.woff') format('woff'),
+        url('/fonts/BebasRegular/Bebas-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lobster';
+    src: url('/fonts/Lobster/LobsterRegular.eot');
+    src: url('/fonts/Lobster/LobsterRegular.ttf');
+    src: url('/fonts/Lobster/LobsterRegular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/Open Sans/OpenSansBold/OpenSansBold.eot');
+    src: url('/fonts/Open Sans/OpenSansBold/OpenSansBold.ttf');
+    src: url('/fonts/Open Sans/OpenSansBold/OpenSansBold.woff');
+    font-weight: normal;
+    font-style: normal;
+}
