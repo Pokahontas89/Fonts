@@ -1,19 +1,14 @@
 @font-face {
     font-family: 'Bad Script';
-    src: url('/fonts/BadScript/BadScriptRegular.eot');
-    src: url('/fonts/BadScript/BadScriptRegular.ttf');
-    src: url('/fonts/BadScript/BadScriptRegular.woff');
+    src: url('/fonts/Bad Script/BadScriptRegular.eot');
+    src: url('/fonts/Bad Script/BadScriptRegular.ttf');
+    src: url('/fonts/Bad Script/BadScriptRegular.woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Bebas';
-    src: url('/fonts/BebasRegular/Bebas-Regular.eot');
-    src: local('Bebas Regular'), local('Bebas-Regular'),
-        url('/fonts/BebasRegular/Bebas-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasRegular/Bebas-Regular.woff2') format('woff2'),
-        url('/fonts/BebasRegular/Bebas-Regular.woff') format('woff'),
-        url('/fonts/BebasRegular/Bebas-Regular.ttf') format('truetype');
+    src: url('/fonts/BebasRegular/bebas-neue-7.woff'); 
     font-weight: normal;
     font-style: normal;
 }
